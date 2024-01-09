@@ -1,0 +1,2 @@
+# parsec-tests
+arch chiplet
